@@ -1,4 +1,4 @@
-# first-vue
+# This is my first project created with Vue 3. In this project I was able to understand and work with basic Vue 3 directives, vuex, Composition API and many other things.
 
 ## Project setup
 ```
